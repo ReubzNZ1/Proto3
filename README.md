@@ -2,7 +2,7 @@
 3 of 4 prototype game projects. Repository created by (Am I) Good Enough (2024).  
   
 ##  
-`Current State:` `Indevelopment`  
+`Current State:` `In development`  
 
 `Completion Status:` X  
 
@@ -19,24 +19,22 @@
     - [(Am I) Good Enough (2024)](#am-i-good-enough-2024)
  
 ## Proto 3
-Hotline is a game prototype created in response to the prompt "Hotline".  
+ 
 
 ## Features  
-Hotline. Red hot lasers, unique artifacts, precious paintings.  
+
     
   
 ## Requirements  
 - Windows 10/11 x64
   
 ### Source Requirements  
-- Unity Engine (2022.3.29f1)  
+- Unreal Engine
   
   
 ## Installation  
 Download and extract from the .zip file.  
-Open and run "Hotline.exe".  
-  
-*This program can also be run with Unity Engine (2022.3.29f1) by adding and opening the project folder from Unity Hub.*  
+
   
   
 ## Controls  
@@ -45,9 +43,6 @@ Open and run "Hotline.exe".
 ### Keyboard  
 
   
-  
-## Issues  
-Sound priority is known to be an issue.  
   
   
 ## Disclaimer   
